@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Full Sleeve Solid Men Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/jacket/j/j/6/xs-no-kttmensdenimjacket149-kotty-original-imag9z35hueahjrz.jpeg?q=70",
+    "product_price": 2999,
+    "discounted_price": 699,
+    "brand": "KOTTY",
+    "size": ["S", "M", "L", "XL"],
+    "gender": "Men"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Full Sleeve Washed Men Casual Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/xif0q/jacket/a/h/i/xl-mnt-7025-montrez-original-imag5hb93udpfs4q-bb.jpeg?q=70",
+    "product_price": 999,
+    "discounted_price": 369,
+    "brand": "MONTREZ",
+    "size": ["S", "M", "L"],
+    "gender": "Women"
+  },
+  {
+    "product_id": 3,
+    "product_name": "Full Sleeve Solid Men Denim Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/xif0q/jacket/l/v/6/xl-mnt-7004-montrez-original-imagffv4bk5bkfpy-bb.jpeg?q=70",
+    "product_price": 2199,
+    "discounted_price": 599,
+    "brand": "MONTREZ",
+    "size": ["S", "M"],
+    "gender": "Men"
+  },
+  {
+    "product_id": 4,
+    "product_name": "KL FZ Full Sleeve Printed Men Casual Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/jsuoivk0/jacket/n/d/y/m-4923946-hrx-by-hrithik-roshan-original-imafec9zjapygfwu.jpeg?q=70",
+    "product_price": 3999,
+    "discounted_price": 1559,
+    "brand": "PUMA",
+    "size": ["S", "M", "L", "XL", "XXL"],
+    "gender": "Men"
+  },
+  {
+    "product_id": 5,
+    "product_name": "Hooded Neck Pink T-Shirt",
+    "product_image": "https://rukminim1.flixcart.com/image/580/696/l3t2fm80/t-shirt/k/6/d/xxl-t425-blph-ba-eyebogler-original-imageu9csh53ks58.jpeg?q=50",
+    "product_price": 999,
+    "discounted_price": 499,
+    "brand": "CAZZBA",
+    "size": ["S", "M", "L"],
+    "gender": "Women"
+  },
+  {
+    "product_id": 6,
+    "product_name": "Full Sleeve Solid Men Bomber Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/xif0q/jacket/t/j/0/xl-no-men-jacket-t-p-u-maroon-klaxxy-original-imagg9wm8hghegk5.jpeg?q=70",
+    "product_price": 899,
+    "discounted_price": 2999,
+    "brand": "WEARSPOT",
+    "size": ["M", "L", "XL"],
+    "gender": "Women"
+  },
+  {
+    "product_id": 7,
+    "product_name": "Full Sleeve Solid Men Bomber Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/xif0q/jacket/b/4/9/m-ft2507-adidas-original-imafy7e7khp9rh4b-bb.jpeg?q=70",
+    "product_price": 6999,
+    "discounted_price": 1182,
+    "brand": "Roadster ",
+    "size": ["M", "L", "XL", "XXL"],
+    "gender": "Men"
+  },
+  {
+    "product_id": 8,
+    "product_name": "Full Sleeve Solid Men Casual Jacket",
+    "product_image": "https://rukminim1.flixcart.com/image/832/832/k6b2snk0/jacket/w/a/v/xl-10368523-roadster-original-imafzp7vymbjrvmm.jpeg?q=70",
+    "product_price": 1299,
+    "discounted_price": 552,
+    "brand": "Roadster",
+    "size": ["M", "L", "XL"],
+    "gender": "Men"
+  }
+]

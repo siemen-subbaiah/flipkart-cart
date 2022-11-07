@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f1f3f6;
+}
+
+.my-items:first-child {
+  margin-top: 2.5rem;
+}
